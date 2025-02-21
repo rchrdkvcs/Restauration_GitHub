@@ -23,6 +23,17 @@ A présent vous n'êtes plus dans votre branche main (branche principale) mais v
 
 ![Screenshot Browse](Browse1.jpg)   
 
-Votre objectif à présent est de faire de ce point de sauvegarde une nouvelle branche pour que vous puissiez ensuite la fusionner avec votre branche principale. C'est à dire faire de cette branche de restauration votre branche main.
+Créez votre nouvelle branche.
 
-**C'est vous de créer la suite de cette procedure de restauration**  
+![Screenshot NewBranch](NewBranch.jpg)   
+  
+Bravo, vous venez de créer une nouvelle branche.  
+
+![Screenshot NewBranch1](NewBranche1.jpg)  
+
+Pour faire de cette nouvelle branche votre branche principale, vous devez faire un "Pull request".  
+
+![Screenshot Pull1](Pull1.jpg)
+![Screenshot 3](3.png)
+
+Une fois la Pull request faite, il suffira de la merge à main. "And voilà"
